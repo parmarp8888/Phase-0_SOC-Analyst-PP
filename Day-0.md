@@ -35,10 +35,12 @@ OpenVPN is a VPN (Virtual Private Network) solution that creates an encrypted tu
 ### Why is it important?
 
 Without encryption, network traffic can be intercepted or monitored by unauthorized parties. VPNs help protect data confidentiality and secure communication.
+<img width="100%" height="50%" alt="image" src="https://github.com/user-attachments/assets/32d69864-64f2-45a9-b913-918fc77ade86" />
 
 ### How does it work?
 
 A VPN client uses a configuration file to connect securely to a VPN server. Once connected, traffic travels through an encrypted tunnel, allowing access to remote resources as if the device were part of that network.
+<img width="100%" height="50%" alt="openvpn_image" src="https://github.com/user-attachments/assets/d378aecd-1a97-487f-ac7a-d63b94242a28" />
 
 ---
 
