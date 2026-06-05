@@ -6,7 +6,6 @@
 As I begin my cybersecurity journey toward becoming a SOC Analyst L1, I decided to start with the OpenVPN room. Before learning advanced security concepts, I wanted to understand how I securely connect to training labs and remote environments. This room helped me learn the basics of VPNs and why they are important in cybersecurity.
 
 > **Day 0 Mindset:** Before attacking, defending, or investigating systems, I need to understand how devices communicate securely across networks.
-
 ---
 
 ### Who is this for?
