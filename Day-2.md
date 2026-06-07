@@ -9,6 +9,11 @@ Before completing this room, I knew a few common roles such as Ethical Hacker an
 > The goal of this room was not to choose a job immediately, but to understand the responsibilities, skills, and purpose of different cybersecurity careers.
 <img width="653" height="653" alt="image" src="https://github.com/user-attachments/assets/8db5316b-27e0-4e8f-8061-b0c42e2c0554" />
 
+Why get a career in cyber:
+
+High Pay - jobs in security have [high starting salaries](https://tryhackme.com/resources/blog/cyber-security-salary-career-options)
+Exciting - work can include legally hacking systems or defending against cyber attacks
+Be in demand - there are over 3.5 million unfilled cyber positions
 ---
 
 ##
@@ -44,7 +49,6 @@ Understanding career paths helps create a structured learning roadmap instead of
 ### How does it work?
 
 The room introduces several cybersecurity roles and explains their responsibilities, skills, and contribution to organizational security.
-<img width="671" height="602" alt="image" src="https://github.com/user-attachments/assets/5c36171d-1370-40bd-865c-5564ee118f73" />
 
 ---
 
@@ -166,39 +170,56 @@ The objective is to determine whether the activity is legitimate or indicative o
 ### Task 1: Introduction
 
 **Question:** Let's start exploring the different roles in cyber security!
-
+<img width="671" height="602" alt="image" src="https://github.com/user-attachments/assets/5c36171d-1370-40bd-865c-5564ee118f73" />
 **Answer:** No answer required.
-
 **Key Takeaway:** Cybersecurity offers multiple career paths, each with different responsibilities and required skill sets.
 
 ### Task 2: Security Analyst
 <img width="666" height="653" alt="Security Analyst image" src="https://github.com/user-attachments/assets/c64fd4f4-2d24-4d08-9c6d-a4b0b80dd3b2" />
-
+**Responsibilities**
+Working with various stakeholders to analyse the cyber security throughout the company
+Compile ongoing reports about the safety of networks, documenting security issues and measures taken in response
+Develop security plans, incorporating research on new attack tools and trends, and measures needed across teams to maintain data security.
 **Key Takeaway:** Security Analysts monitor systems, investigate alerts, and help detect attacks against an organization.
 
 ### Task 3: Security Engineer
-
+**Responsibilities**
+Testing and screening security measures across software
+Monitor networks and reports to update systems and mitigate vulnerabilities
+Identify and implement systems needed for optimal security
 **Key Takeaway:** Security Engineers design, implement, and maintain security controls and infrastructure.
 
 ### Task 4: Incident Responder
-
+**Responsibilities**
+Developing and adopting a thorough, actionable incident response plan
+Maintaining strong security best practices and supporting incident response measures
+Post-incident reporting and preparation for future attacks, considering learnings and adaptations to take from incidents
 **Key Takeaway:** Incident Responders investigate and contain security incidents while helping organizations recover.
 
 ### Task 5: Digital Forensics Examiner
-
+**Responsibilities**
+Collect digital evidence while observing legal procedures
+Analyse digital evidence to find answers related to the case
+Document your findings and report on the case
 **Key Takeaway:** Digital Forensics focuses on collecting, preserving, and analyzing evidence while maintaining legal integrity.
 
 ### Task 6: Malware Analyst
-
+**Responsibilities**
+Carry out static analysis of malicious programs, which entails reverse-engineering
+Conduct dynamic analysis of malware samples by observing their activities in a controlled environment
+Document and report all the findings
 **Key Takeaway:** Malware Analysts examine malicious software using static and dynamic analysis techniques.
 
 ### Task 7: Penetration Tester
 <img width="407" height="653" alt="Penetration Tester image" src="https://github.com/user-attachments/assets/ff9452ef-7000-419c-b417-8c61313807dd" />
-
+**Responsibilities**
+Conduct tests on computer systems, networks, and web-based applications
+Perform security assessments, audits, and analyse policies
+Evaluate and report on insights, recommending actions for attack prevention
 **Key Takeaway:** Penetration Testers legally identify vulnerabilities before attackers can exploit them.
 
 ### Task 8: Red Teamer
-
+**Responsibilities**
 **Key Takeaway:** Red Teamers simulate realistic attackers to evaluate an organization's defenses, detection capabilities, and response procedures.
 <img width="410" height="653" alt="Red Teamer image" src="https://github.com/user-attachments/assets/6e40abf8-a7d5-497c-9c6b-e248629bc925" />
 
