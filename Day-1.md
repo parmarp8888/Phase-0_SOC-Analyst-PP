@@ -63,6 +63,7 @@ This task introduced the purpose of the room and explained that cybersecurity co
 ---
 
 ### Task 2: Offensive Security
+<img width="1200" height="1200" alt="offensive security image" src="https://github.com/user-attachments/assets/e5bd0b3a-306c-4e32-80ad-51f128eed011" />
 
 **Question:** What is the name of the career role that is legally employed to find vulnerabilities in applications?
 
@@ -183,7 +184,7 @@ All of these roles work together to improve an organization's security posture.
 
 ---
 
-## 🛡️ SOC Analyst L1: Mindset & Tricky Connection
+## 🛡️ SOC Analyst L1: Mindset
 
 ### Tricky Connection
 
@@ -225,7 +226,7 @@ To strengthen my SOC foundation, I should continue with:
 
 ---
 
-## 💼 Scenario-Based Interview Question (Critical Thinking)
+## Critical Thinking
 
 ### Question
 
