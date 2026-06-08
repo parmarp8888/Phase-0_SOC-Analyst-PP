@@ -94,9 +94,10 @@ This room taught me several important security concepts:
 * **Availability** → Ensure systems and information remain accessible when needed.
 
 #### Defense in Depth
-[<img width="434" height="322" alt="image" src="https://github.com/user-attachments/assets/a43ae0df-f98d-4b03-8d20-7a68d892b527" />
-](https://medium.com/insa-tc/defense-in-depth-for-web-applications-38178696f833)
+
 Security should not rely on a single protective control.
+
+<img width="1140" height="694" alt="image" src="https://github.com/user-attachments/assets/9d0b6f0a-8a63-4937-bdf6-83b94435f38e" />
 
 Organizations implement multiple layers such as:
 
@@ -527,7 +528,9 @@ Reduce fraud.
 ---
 **8. Defence-in-Depth**
 One security control is never enough,Defence-in-Depth refers to creating a security system of multiple levels; hence it is also called Multi-Level Security.
-<img width="1140" height="694" alt="image" src="https://github.com/user-attachments/assets/9d0b6f0a-8a63-4937-bdf6-83b94435f38e" />
+
+[<img width="434" height="322" alt="image" src="https://github.com/user-attachments/assets/a43ae0df-f98d-4b03-8d20-7a68d892b527" />
+](https://medium.com/insa-tc/defense-in-depth-for-web-applications-38178696f833)
 
 Example:
 . Only antivirus installed.
