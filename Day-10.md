@@ -1,5 +1,5 @@
 
-# Room Walkthrough: Cyber Kill Chain
+# Room Walkthrough:[ Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
 
 ## 🎯 Day 10 Objective
 
@@ -10,8 +10,6 @@ As part of my SOC Analyst L1 learning journey, this room introduced me to one of
 Before this room, I mostly viewed cyber attacks as a single event. After completing it, I learned that attacks are usually a series of connected stages, and defenders can stop an attack by disrupting any one of those stages.
 
 ---
-
-## 🔍 The 5W-H Investigation Framework
 
 ### Who is this for?
 
@@ -56,8 +54,6 @@ If defenders can identify which stage an attacker is in, they can stop the attac
 The framework maps attacker behavior from initial information gathering to the final objective, helping defenders recognize and break the attack chain.
 
 ---
-
-## 🌱 Honest Learning Cycle
 
 ### What confused me?
 
