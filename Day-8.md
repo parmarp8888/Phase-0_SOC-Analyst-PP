@@ -116,9 +116,8 @@ A SOC Analyst frequently investigates incidents that begin with user actions, ma
 
 ---
 
-## 📚 Task-by-Task Questions, Answers & Explanations
-
 ### Task 1: Introduction to Security Awareness
+<img width="1086" height="554" alt="Screenshot 2026-06-07 132441" src="https://github.com/user-attachments/assets/9370697a-e168-489c-8255-77a57b72b876" />
 
 **Question:** Read why security awareness is so important for everyone.
 
@@ -184,8 +183,8 @@ The impact of cyber threats increased significantly during the pandemic, primari
 . Financial loss
 
 . Loss of Sensitive Data
-
-<img width="992" height="367" alt="image" src="https://github.com/user-attachments/assets/e49f7c7a-1b6b-49db-902f-07488f0a5641" />
+[
+<img width="992" height="367" alt="image" src="https://github.com/user-attachments/assets/e49f7c7a-1b6b-49db-902f-07488f0a5641" />](https://haveibeenpwned.com/)
 
 **Question:** Check Have I Been Pwned.
 
