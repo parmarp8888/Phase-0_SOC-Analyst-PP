@@ -1,7 +1,7 @@
 | Phase | Topics / Modules | Duration | Status | Milestone Project |
 | :--- | :--- | :--- | :--- | :--- |
 | **Phase 0** | [Cyber & SOC Foundation](./Phase-00-Cyber-SOC-Foundation/) | **Day 01-11** |  🔵DONE | **Mini SOC Shift Report & Threat Lifecycle** |
-| | [Information Security vs Cybersecurity](./Phase-01-Networking-Traffic-Analysis/) | Day X |  | 
+| | [Information Security vs Cybersecurity](Day-X.md) | Day X |  | 
 | | [Welcome / OpenVPN ](./Phase-02-Linux-Fundamentals/) | Day 0 |  | 
 | | [ Starting Out In Cyber Security ](./Phase-02-Linux-Fundamentals/) | Day 1 |  |  
 | | [Careers in Cyber](./Phase-02-Linux-Fundamentals/) | Day 2 |  |  
