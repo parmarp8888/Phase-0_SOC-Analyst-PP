@@ -1,5 +1,5 @@
-##### Phase-0_SOC-Analyst-PP
-#### Table of Contents:
+## Phase-0_SOC-Analyst-PP
+### Table of Contents:
 | Phase | Topics / Modules | Duration | Status | Milestone Project |
 | :--- | :--- | :--- | :--- | :--- |
 | **Phase 0** | [Cyber & SOC Foundation](./Phase-00-Cyber-SOC-Foundation/) | **Day 01-11** |  🔵DONE | **Mini SOC Shift Report & Threat Lifecycle** |
