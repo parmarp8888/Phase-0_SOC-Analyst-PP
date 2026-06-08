@@ -114,7 +114,7 @@ SOC teams monitor logs, endpoints, DNS activity, and network traffic to identify
 ## Task 1: Kill chain
 The term kill chain is a military concept related to the structure of an attack. It consists of target identification, decision and order to attack the target, and finally the target destruction.
 
-<img width="1098" height="1280" alt="image" src="https://github.com/user-attachments/assets/3597b548-02cb-42d9-a86a-4bd2e328ecda" />
+[<img width="1098" height="1280" alt="image" src="https://github.com/user-attachments/assets/3597b548-02cb-42d9-a86a-4bd2e328ecda" />](https://www.splunk.com/en_us/blog/learn/cyber-kill-chains.html)
 
 Thanks to Lockheed Martin, a global security and aerospace company, that established the Cyber Kill Chain® framework for the cybersecurity industry in 2011 based on the military concept. The framework defines the steps used by adversaries or malicious actors in cyberspace. To succeed, an adversary needs to go through all phases of the Kill Chain. We will go through the attack phases and help you better understand adversaries and their techniques used in the attack to defend yourself.
 
