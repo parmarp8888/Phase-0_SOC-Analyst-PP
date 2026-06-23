@@ -2,7 +2,7 @@
 ### Table of Contents:
 | Phase | Topics / Modules | Duration | Status | Milestone Project |
 | :--- | :--- | :--- | :--- | :--- |
-| **Phase 0** | [Cyber & SOC Foundation](./Phase-00-Cyber-SOC-Foundation/) | **Day 01-11** |  🔵DONE | **Mini SOC Shift Report & Threat Lifecycle** |
+| **Phase 0** | [Cyber & SOC Foundation](./Phase-00-Cyber-SOC-Foundation/) | **Day 01-11** |  🔵DONE | **[Mini SOC Shift Report & Threat Lifecycle](https://github.com/parmarp8888/Phase-0_SOC-Analyst-PP/blob/main/Mini_SOC-Analyst_Report-PP.md)** |
 | | [Information Security vs Cybersecurity](Day-X.md) | Day X |  | 
 | | [Welcome / OpenVPN ](Day-0.md) | Day 0 |  | 
 | | [ Starting Out In Cyber Security ](Day-1.md) | Day 1 |  |  
