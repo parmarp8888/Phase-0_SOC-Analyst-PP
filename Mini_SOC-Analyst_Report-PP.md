@@ -61,7 +61,7 @@ They gain initial entry by using highly targeted spear-phishing campaigns or by 
 <img width="1920" height="1080" alt="SOCimage" src="https://github.com/user-attachments/assets/4ad9254f-ec04-49a7-a2cb-7948c3df154d" />
 
 ----
-### Threat Lifecycle Mapping: Hygiene Kill Chain & MITRE ATT&CK:
+### Threat Lifecycle Mapping: Hygiene Kill Chain & [MITRE ATT&CK:](https://attack.mitre.org/groups/G0016/)
 An adversary does not execute an attack in a single step. They follow a logical, progressive lifecycle. The table below takes the five core techniques under review and maps them chronologically across the Cyber ​​Kill Chain (CKC) and the MITRE ATT&CK matrix, illustrating exactly how a compromise transitions from initial entry to lateral expansion.
 <img width="850" height="455" alt="killchainimage" src="https://github.com/user-attachments/assets/986fc7d7-99bf-4862-9883-14d15c8e4de0" />
 
@@ -660,5 +660,10 @@ A SOC analyst's job is not to memorize malware names. Their role is to understan
 * how that behavior can be detected in the future.
 
 [Mini SOC Shift Report & Threat Lifecycle Documentation case study.pdf](https://github.com/user-attachments/files/29247713/Mini.SOC.Shift.Report.Threat.Lifecycle.Documentation.case.study.pdf)
+https://www.crowdstrike.com/en-us/blog/bears-midst-intrusion-democratic-national-committee/
+https://web-assets.esetstatic.com/wls/2019/10/ESET_Operation_Ghost_Dukes.pdf
+https://www.ncsc.gov.uk/files/Advisory-APT29-targets-COVID-19-vaccine-development-V1-1.pdf
+https://www.ncsc.gov.uk/files/Advisory-further-TTPs-associated-with-SVR-cyber-actors.pdf
+https://www.crowdstrike.com/en-us/blog/observations-from-the-stellarparticle-campaign/
 
 ----
